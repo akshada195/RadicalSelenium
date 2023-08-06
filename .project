@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>RadicalSelenium</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/basic/loginDemo.xlsx</name>
+			<type>1</type>
+			<location>E:/AutomationTraining/codeBase/RadicalSelenium/src/basic/loginDemo.xlsx</location>
+		</link>
+	</linkedResources>
+</projectDescription>
